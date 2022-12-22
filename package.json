@@ -20,7 +20,7 @@
     "express-session": "^1.14.2",
     "fs": "0.0.1-security",
     "https": "^1.0.0",
-    "jsonwebtoken": "^7.1.9",
+    "jsonwebtoken": "^9.0.0",
     "path": "^0.12.7",
     "request": "^2.78.0",
     "rsa-pem-from-mod-exp": "^0.8.4"
